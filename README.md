@@ -1,7 +1,8 @@
 #day10of365daysofcode - Exploring javscript object orientation
--m Sorry senior dev, I missed day 1
+Sorry senior dev, I missed day 1
 Content
 
 - Javascript Object Literals
   literals.js
 - Javascript OOP
+  constructor.js
